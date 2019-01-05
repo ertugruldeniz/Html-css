@@ -1,5 +1,5 @@
-Siteyi canlı olarak görmek için 
+Siteyi görmek için ;
 
-www.koubilisimertugruldeniz.890m.com 
+https://ertugruldeniz.github.io/Html-css/
 
-adrese gidiniz.
+adrese ziyaret ediniz.
